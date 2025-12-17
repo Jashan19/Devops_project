@@ -1,0 +1,16 @@
+{
+  "name": "devops-project",
+  "version": "1.0.0",
+  "description": "NLP Sentiment Analysis Project",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo 'No build step needed'",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "firebase-tools": "^13.0.0"
+  },
+  "engines": {
+    "node": "18"
+  }
+}
