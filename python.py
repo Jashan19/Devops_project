@@ -8,6 +8,7 @@ import pandas as pd
 cred = credentials.Certificate("ServiceAccount.json")
 firebase_admin.initialize_app(cred)
 
+
 # 2️⃣ Connect to Firestore
 db = firestore.client()
 
