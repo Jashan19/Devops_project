@@ -1,3 +1,8 @@
 text,date,updatedAt
 "Journ., good day",2025-12-02,2025-12-16 15:25:23.316000+00:00
 Movie good and nice day,2025-12-16,2025-12-16 15:25:09.916000+00:00
+Journl,2025-12-18,2025-12-18 07:47:25.036000+00:00
+Day,2025-12-20,2025-12-23 07:59:47.266000+00:00
+"Today the CI/CD pipeline failed during deployment, causing frustration and delays. After careful debugging and fixing environment variables, the build finally succeeded and restored confidence.
+",2025-12-23,2025-12-23 08:10:19.156000+00:00
+Hello,2025-12-24,2025-12-23 08:10:30.844000+00:00
