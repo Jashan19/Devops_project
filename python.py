@@ -19,6 +19,7 @@ data = [doc.to_dict() for doc in docs]
 valid_data = []
 invalid_data = []
 
+
 # 4️⃣ Validate journal NLP schema
 for d in data:
     if not d or not d.get("text"):
